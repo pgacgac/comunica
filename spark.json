@@ -1,0 +1,7 @@
+{
+  "name": "comunica",
+  "author": "Jose Moreno <pgacgac@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Una libreria para comunicar Arduino y Spark con Serial 2"
+}
