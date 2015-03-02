@@ -22,7 +22,7 @@ payload = 234, 214, numero de bytes , suma de bytes, datos.........,215,   235
 
 //***********para spark************
 #include "application.h"
-#include "Serial2/Serial2.h"
+//#include "Serial2/Serial2.h"
 /*******************************/
 
 #define C_FIN_UNO 215
