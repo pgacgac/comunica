@@ -18,7 +18,7 @@ payload = 234, 214, numero de bytes , suma de bytes, datos.........,215,   235
 #else
 	#include "WProgram.h"
 #endif
-//********************************/
+********************************/
 
 //***********para spark************
 #include "application.h"
